@@ -45,15 +45,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">🔥 Streak Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridharramesh&theme=radical&hide_border=true" />
-</p>
-
----
 
 <h2 align="center">🎯 Currently Learning</h2>
 
